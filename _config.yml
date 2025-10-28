@@ -1,7 +1,7 @@
 # _config.yml (minimal example)
 title: "Tyler Eck — CV"
 description: "Cloud & Security Engineer • Big Data Security"
-url: "https://tylereck-cv.io" 
+url: "https://tylereck.github.io" 
 
 remote_theme: "mmistakes/minimal-mistakes"
 
