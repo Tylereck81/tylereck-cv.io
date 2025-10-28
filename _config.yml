@@ -1,7 +1,7 @@
 # _config.yml (minimal example)
 title: "Tyler Eck — CV"
 description: "Cloud & Security Engineer • Big Data Security"
-url: "https://tylereck81.github.io" 
+url: "https://tylereck81.github.io/tylereck-cv.io/" 
 
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -12,7 +12,7 @@ plugins:
 
 author:
   name: "Tyler Eck"
-  avatar: "/assets/images/avatar.jpg"
+  avatar: "/assets/images/avatar.jpeg"
   bio: "Erasmus Mundus SECCLO • Big Data Security @ EURECOM"
   location: "Antibes, France"
   links:
