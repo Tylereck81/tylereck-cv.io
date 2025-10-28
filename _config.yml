@@ -1,16 +1,15 @@
 # _config.yml (minimal example)
 title: "Tyler Eck — CV"
 description: "Cloud & Security Engineer • Big Data Security"
-url: "https://tylereck-cv.io"   # if using username.github.io
+url: "https://tylereck-cv.io" 
 
 remote_theme: "mmistakes/minimal-mistakes"
 
-# Optional: turn off blog pagination on the home page if you want a simple front
 paginate: 0
 
 author:
   name: "Tyler Eck"
-  avatar: "/assets/images/avatar.jpg"  # add this file later if you want
+  avatar: "/assets/images/avatar.jpg"
   bio: "Erasmus Mundus SECCLO • Big Data Security @ EURECOM"
   location: "Antibes, France"
   links:
